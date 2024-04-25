@@ -1,0 +1,90 @@
+.price {
+    background-color: $blue-main;
+    position: relative;
+    &_img {
+        position: relative;
+        margin-top: -160px;
+    }
+    &_wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    &_tile {
+        font-size: 28px;
+        span {
+            background: $second;
+            color: #fff;
+        }
+    }
+    &_wrap {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+    &_blog {
+        width: 23%;
+        background-color: #FFCE84;
+        padding: 30px 10px;
+        border-radius: 15px;
+        box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.27);
+        z-index: 2;
+    }
+    &_blog:not(:last-child) {
+        margin-right: 2%;
+    }
+    &_blog:first-child {
+        margin-top: 80px;
+    }
+    &_blog:nth-child(2) {
+        margin-top: 60px;
+        margin-bottom: 25px;
+
+    }
+    &_blog:nth-child(3) {
+        margin-top: 40px;
+        margin-bottom: 45px;
+
+    }
+    &_blog:nth-child(4) {
+        margin-top: 20px;
+        margin-bottom: 55px;
+
+    }
+    &_subtitle {
+        color: #fff;
+        font-size: 20px;
+        text-align: center;
+    }
+    &_num {
+        font-size: 30px;
+        margin: 20px 0;
+        text-align: center;
+        color: #707070;
+    }
+    &_btn {
+        color: #fff;
+        padding: 10px 20px;
+        background-color: #efba69;
+        border-radius: 10px;
+        transition: .5s;
+        font-size: 18px;
+    }
+    &_btn:hover {
+        background-color: #fff;
+        color:  #ddc39b;
+    }
+    &_div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    &_after {
+        position: absolute;
+        bottom: 3%;
+        left: -9%;    
+    }
+    img {
+        height: 470px;
+    }
+}

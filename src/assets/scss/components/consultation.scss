@@ -1,0 +1,36 @@
+.consul {
+  &_blog {
+    display: flex;
+    justify-content: center;
+  }
+  &_blog-left {
+    color: #fff;
+    font-size: 29px;
+    font-weight: 500;
+    background-color: $second;
+    padding: 20px 40px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+  }
+  &_blog-right {
+    border: 2px solid #FFCE84;
+    padding: 30px 40px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: -13px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 130%;
+  }
+  &_blog-right-reverse {
+    border: 2px solid #FFCE84;
+    padding: 30px 40px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-right: -13px;
+    width: 100%;
+    font-size: 22px;
+    line-height: 130%;
+  }
+}
