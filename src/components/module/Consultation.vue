@@ -8,7 +8,7 @@
         Готова поддержать вас в сложный момент и помочь вернуть радость жизни.
       </div>
     </div>
-    <div class="consul_blog mb-12 reverse" data-aos="fade-left" data-aos-easing="linear"
+    <div class="consul_blog mb-12 reverse" data-aos="fade-down" data-aos-easing="linear"
      data-aos-duration="300">
       <div class="consul_blog-left">Test</div>
       <div class="consul_blog-right-reverse">
@@ -25,7 +25,7 @@
 Готова помочь вам в этом.
       </div>
     </div>
-    <div class="consul_blog reverse" data-aos="fade-left" data-aos-easing="linear"
+    <div class="consul_blog reverse" data-aos="fade-down" data-aos-easing="linear"
      data-aos-duration="300">
       <div class="consul_blog-left"><span>Test</span></div>
       <div class="consul_blog-right-reverse">

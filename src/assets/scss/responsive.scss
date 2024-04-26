@@ -1,11 +1,17 @@
 body * {
-    font-family: "Futura PT";
-  }
-  a {
-    text-decoration: none;
-    color: #ffffff;
-  }
-
-  @media (max-width: 1250px) {
-
-  }
+  font-family: "Futura PT";
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+// @media screen and (max-width: 1600px) {
+//   .container {
+//     width: 1600px;
+//     margin: 0 auto;
+//   }
+// }

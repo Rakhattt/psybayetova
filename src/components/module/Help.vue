@@ -4,7 +4,7 @@
       <div class="help_wrap">
         <h2 class="price_tile help_title" data-aos="fade-right" data-aos-easing="linear"
           data-aos-duration="500">Я помогу <span>вам</span></h2>
-        <div class="help_img" data-aos="fade-left" data-aos-easing="linear"
+        <div class="help_img" data-aos="fade-up" data-aos-easing="linear"
           data-aos-duration="500">
           <img
             src="../../assets/img/png/bg_img.png"

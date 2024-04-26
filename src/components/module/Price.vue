@@ -11,7 +11,7 @@
           />
           <img src="../../assets/img/png/me2.png" alt="me" class="price_me" />
         </div>
-        <h2 class="price_tile" data-aos="fade-left" data-aos-easing="linear"
+        <h2 class="price_tile" data-aos="fade-up" data-aos-easing="linear"
           data-aos-duration="500">Веду прием по <span>запросам</span></h2>
       </div>
       <div class="price_wrap">
