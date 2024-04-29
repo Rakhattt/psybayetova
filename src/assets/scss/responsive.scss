@@ -6,12 +6,63 @@ a {
   color: #ffffff;
 }
 .container {
-  width: 90%;
+  width: 1700px;
   margin: 0 auto;
 }
-// @media screen and (max-width: 1600px) {
-//   .container {
-//     width: 1600px;
-//     margin: 0 auto;
-//   }
-// }
+@media screen and (max-width: 1800px) {
+  .container {
+    width: 1500px;
+  }
+}
+
+@media screen and (max-width: 1700px) {
+  .container {
+    width: 1300px;
+  }
+  .consul_blog-left {
+    font-size: 26px;
+  }
+  .consul_blog-right {
+    font-size: 19px;
+  }
+  .consul_blog-right-reverse {
+    font-size: 19px;
+  }
+  .main {
+    &_img img {
+      height: 480px !important;
+    }
+  }
+  .main_title {
+    font-size: 36px;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .container {
+    width: 1200px;
+  }
+  .main {
+    &_img img {
+      height: 460px !important;
+    }
+    &_after {
+      position: absolute;
+      bottom: 6%;
+      left: -5%;
+    }
+  }
+  .main_title {
+    font-size: 34px !important;
+  }
+  .header_name {
+    font-size: 21px !important;
+  }
+  .header_icon {
+    width: 75px !important;
+    height: 65px !important;
+  }
+  .carousel_title {
+    font-size: 20px !important;
+  }
+}

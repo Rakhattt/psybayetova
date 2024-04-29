@@ -19,6 +19,7 @@
   }
   &_side {
     display: flex;
+    justify-content: space-around;
   }
   &_blog_left {
     z-index: 12;

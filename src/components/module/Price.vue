@@ -15,8 +15,7 @@
           data-aos-duration="500">Веду прием по <span>запросам</span></h2>
       </div>
       <div class="price_wrap">
-        <div class="price_blog" data-aos="fade-up"
-     data-aos-anchor-placement="center-center" data-aos-duration="700">
+        <div class="price_blog">
           <div class="price_subtitle">Глубокая психокоррекционная терапия</div>
           <div class="price_num">10 000 тг</div>
           <div class="price_div">
@@ -27,8 +26,7 @@
           >
           </div>
         </div>
-        <div class="price_blog" data-aos="fade-up"
-     data-aos-anchor-placement="center-center" data-aos-duration="600">
+        <div class="price_blog">
           <div class="price_subtitle">Групповые терапии</div>
           <div class="price_num">20 000 тг</div>
           <div class="price_div">
@@ -39,8 +37,7 @@
           >
           </div>
         </div>
-        <div class="price_blog" data-aos="fade-up"
-     data-aos-anchor-placement="center-center" data-aos-duration="500">
+        <div class="price_blog">
           <div class="price_subtitle">Психо/Патодиагностика</div>
           <div class="price_num">30 000 тг</div>
           <div class="price_div">
@@ -51,8 +48,7 @@
           >
           </div>
         </div>
-        <div class="price_blog" data-aos="fade-up"
-     data-aos-anchor-placement="center-center" data-aos-duration="400">
+        <div class="price_blog">
           <div class="price_subtitle">Монография о Психотравмах</div>
           <div class="price_num">40 000 тг</div>
           <div class="price_div">
